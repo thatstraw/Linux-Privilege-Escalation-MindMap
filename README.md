@@ -3,7 +3,8 @@
 OSCP Privilege Escalation MindMap/Guide
 
 _**The MindMaps comes in different formats and there are located in the MindMaps folder**_
-Formats:
+
+Supported Formats:
 - png
 - svg
 - docx
