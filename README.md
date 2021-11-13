@@ -2,6 +2,10 @@
 # Linux-Privilege-Escalation-MindMap
 OSCP Privilege Escalation MindMap/Guide
 
+<h3 align="left">Connect with me:</h3>
+
+[![Twitter Badge](https://img.shields.io/badge/-@OxTRAW-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/0xTRAW)](https://twitter.com/0xTRAW) [![Twitter Badge](https://img.shields.io/badge/-@xtremepentest-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/xtremepentest)](https://twitter.com/xtremepentest)
+
 _**The MindMaps comes in different formats and there are located in the MindMaps folder**_
 
 Supported Formats:
