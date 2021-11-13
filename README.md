@@ -2,6 +2,16 @@
 # Linux-Privilege-Escalation-MindMap
 OSCP Privilege Escalation MindMap/Guide
 
+_**The MindMaps comes in different formats and there are located in the MindMaps folder**_
+Formats:
+- png
+- svg
+- docx
+- md
+- xlsx
+- opml
+- pdf
+
 ## Credential Harvesting {Passwords/Keys}
 
 - SSH keys
