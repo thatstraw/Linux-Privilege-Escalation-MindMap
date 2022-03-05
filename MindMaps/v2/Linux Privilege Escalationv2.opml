@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<dateCreated>Sat Mar 05 2022 09:34:11 GMT+0200 (South Africa Standard Time)</dateCreated>
+		<dateModified>Sat Mar 05 2022 09:34:11 GMT+0200 (South Africa Standard Time)</dateModified>
+	</head>
+	<body>
+		<outline text="Linux Privilege Escalation">
+			<outline text="Credential Harvesting
+{Passwords/Keys}">
+				<outline text="SSH keys"></outline>
+				<outline text="Reused Passwords"></outline>
+				<outline text="Credentials from Bash History / Bash History Files"></outline>
+				<outline text="Credentials From Configuration Files"></outline>
+				<outline text="Credentials From Local Databases"></outline>
+				<outline text="Automated Tools">
+					<outline text="LinPEAS"></outline>
+					<outline text="LinEnum"></outline>
+				</outline>
+			</outline>
+			<outline text="Exploits">
+				<outline text="Kernel Version"></outline>
+				<outline text="Binary File Versions"></outline>
+				<outline text="Services Running On Local Host"></outline>
+				<outline text="Automated Tools">
+					<outline text="Linux Exploit Suggester"></outline>
+				</outline>
+			</outline>
+			<outline text="@xtrempentest"></outline>
+			<outline text="Misconfigurations">
+				<outline text="Sudo Access (Sudo -l)"></outline>
+				<outline text="Abusing Intended Binary Functionality"></outline>
+				<outline text=" SUID / SGID Executables"></outline>
+				<outline text="Weak File Permissions on 
+           Sensitive Files
+            {WRITABLE}">
+					<outline text="/etc/passwd"></outline>
+					<outline text="/etc/shadow"></outline>
+					<outline text="/etc/sudoers"></outline>
+					<outline text=" Configuration Files"></outline>
+				</outline>
+				<outline text="Weak File Permissions on 
+            Sensitive Files
+              {READABLE}">
+					<outline text="/etc/shadow"></outline>
+					<outline text="/root/.ssh/id_rsa
+{SSH Private Keys}"></outline>
+				</outline>
+				<outline text="Writable PATH">
+					<outline text="Root $PATH Env Variable Writable"></outline>
+					<outline text="Directory in $PATH Writable"></outline>
+				</outline>
+				<outline text="Cron Jobs">
+					<outline text="Writable Cron Jobs"></outline>
+					<outline text="Writable Cron Jon Dependency File
+            {Python File etc}"></outline>
+				</outline>
+				<outline text=" Environment Variables">
+					<outline text="LD_PRELOAD
+set in /etc/sudoers"></outline>
+				</outline>
+				<outline text="NFS {user is root and root squashing is enabled}"></outline>
+			</outline>
+		</outline>
+	</body>
+</opml>
