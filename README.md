@@ -1,4 +1,4 @@
-![](MindMaps/readme.png)
+![](MindMaps/readmev2.png)
 # Linux-Privilege-Escalation-MindMap
 OSCP Privilege Escalation MindMap/Guide
 
